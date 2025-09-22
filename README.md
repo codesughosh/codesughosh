@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🎓 Second-Year **Computer Science and Business Systems** student at **JSSSTU**
-- 💻 I'm passionate about **Machine Learning, Probability** and most importantly **breaking into stuff!**
+- 💻 I'm passionate about **Machine Learning, Statistics, Probability** and most importantly **breaking into stuff!**
 
 # 📊 Leetcode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/notsughosh?theme=dark&font=baloo_2&ext=contest)
