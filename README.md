@@ -21,7 +21,10 @@ Here are some ideas to get you started:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/notsughosh?theme=dark&font=baloo_2&ext=contest)
 
 ## 📊 GitHub
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codesughosh&theme=tokyo-night)
-![codesughosh's Stats](https://github-readme-stats.vercel.app/api?username=codesughosh&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![codesughosh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=codesughosh&theme=dark&hide_border=true)
-![codesughosh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codesughosh&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codesughosh&theme=dark&hide_border=true"/> <p></p> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codesughosh&theme=dark" alt="Profile Details" /> <p></p> 
+<table> <tr> <td><img src="https://github.com/codesughosh/github-stats-transparent/blob/output/generated/overview.svg" /></td> 
+  <td><img src="https://github.com/codesughosh/github-stats-transparent/blob/output/generated/languages.svg" /></td> </tr> </table> </div>
+
