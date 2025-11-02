@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=codesughosh&theme=dark&hide_border=true"/> <p></p> 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codesughosh&theme=dark" alt="Profile Details" /> <p></p> 
-<table> <tr> <td><img src="https://github.com/codesughosh/github-stats-transparent/blob/output/generated/overview.svg" /></td> 
-  <td><img src="https://github.com/codesughosh/github-stats-transparent/blob/output/generated/languages.svg" /></td> </tr> </table> </div>
+<table> <tr> <td><img src="https://github.com/codesughosh/github-stats/blob/output/generated/overview.svg" /></td> 
+  <td><img src="https://github.com/codesughosh/github-stats/blob/output/generated/languages.svg" /></td> </tr> </table> </div>
 
