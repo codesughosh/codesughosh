@@ -17,9 +17,14 @@ Here are some ideas to get you started:
 - 🎓 Second-Year **Computer Science and Business Systems** student at **JSSSTU**
 - 💻 I'm passionate about **Machine Learning, Statistics, Probability** and most importantly **breaking into stuff!**
 
-## 📊 Leetcode and CodeForces
-![LeetCode Stats](https://leetcard.jacoblin.cool/notsughosh?theme=dark&font=baloo_2&ext=contest)
-![](https://raw.githubusercontent.com/codesughosh/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+## 📊 LeetCode & Codeforces
+
+<div align="center">
+
+  <img src="https://leetcard.jacoblin.cool/notsughosh?theme=dark&font=baloo_2&ext=contest" width="47%" />
+  <img src="https://raw.githubusercontent.com/codesughosh/cf-stats/main/output/light_card.svg#gh-dark-mode-only" width="37%" />
+
+</div>
 
 ## 🧩 GitHub
 <div align="center">
