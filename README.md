@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=codesughosh&color=7e63e0&base=27&)
 ![Header](japan.gif)
 # 🤖 About Me
 
