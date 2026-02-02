@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 <div align="center">
 
   <img src="https://leetcard.jacoblin.cool/notsughosh?theme=dark&font=baloo_2&ext=contest" width="47%" />
-  <img src="https://raw.githubusercontent.com/codesughosh/cf-stats/main/output/light_card.svg#gh-dark-mode-only" width="37%" />
-  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=codesughosh&theme=dark)
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=codesughosh&theme=dark" width="37%" />
 
 </div>
 
