@@ -1,8 +1,8 @@
 ![Header](japan.gif)
 # 🤖 About Me
 
-- 🎓 Second-Year **Computer Science and Business Systems** student at **JSSSTU**
-- 💻 I'm passionate about **Machine Learning, Statistics, Probability** and most importantly **breaking into stuff!**
+- Second-year **Computer Science & Business Systems** student at **JSSSTU**.  
+- Interested in building practical software, Automation, and applied Machine Learning. 
 
 ## 📊 LeetCode & Codeforces
 
