@@ -2,7 +2,7 @@
 # 🤖 About Me
 
 - Second-year **Computer Science & Business Systems** student at **JSSSTU**.  
-- Interested in building practical software, Automation, and applied Machine Learning. 
+- Passionate about **Competitive Programming**, **Machine Learning**, and learning through building **real-world** projects.
 
 ## 📊 LeetCode & Codeforces
 
