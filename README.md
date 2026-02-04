@@ -13,6 +13,13 @@
 
 </div>
 
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwindcss,nodejs,express,python,flutter,dart,supabase,postgres,firebase,git" />
+</p>
+
+
 ## 🧩 GitHub
 <div align="center"> 
 <table> <tr> <td><img src="https://github.com/codesughosh/github-stats/blob/output/generated/overview.svg" /></td> 
