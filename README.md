@@ -20,7 +20,7 @@
 </p>
 
 
-## 🧩 GitHub
+## 🧩 GitHub.
 <div align="center"> 
 <table> <tr> <td><img src="https://github.com/codesughosh/github-stats/blob/output/generated/overview.svg" /></td> 
   <td><img src="https://github.com/codesughosh/github-stats/blob/output/generated/languages.svg" /></td> </tr> </table> </div>
