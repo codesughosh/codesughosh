@@ -8,7 +8,6 @@
 
 <div align="center">
 
-  <img src="https://leetcard.jacoblin.cool/hemchand_gowda46?theme=dark&font=baloo_2&ext=contest" width="47%" />
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=codesughosh&theme=dark" width="37%" />
 
 </div>
